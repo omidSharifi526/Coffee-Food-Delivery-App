@@ -5,12 +5,13 @@ import { MainStyle } from './mainStyle';
 import Landing from './components/LandingPage';
 
 
+
 function App() {
   return (
    <>
     <Router>
       <MainStyle/>
-    
+      
      <Landing/>
      </Router>
      </>
